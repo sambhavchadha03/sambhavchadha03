@@ -5,6 +5,7 @@
 - 👀 I’m interested in Programminf & Software Development
 - 🌱 I’m currently learning Python & C++ {OOPS}
 - 💞️ I’m looking to collaborate on Projects
+- 😀 Pronouns he/him
 - 📫 How to reach me
 - Instagram:- @sambhavchadha
 - Email :- sambhavchadhamail@gmail.com
